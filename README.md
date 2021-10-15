@@ -1,4 +1,4 @@
-# Language is Dead.
+# Language is Dead
 
 [![](_img/github.png)](https://github.com/GoranMilovanovic/q1universeismine)
 [![](_img/twitter.png)](https://twitter.com/q1universe)
