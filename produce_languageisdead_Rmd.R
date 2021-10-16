@@ -39,7 +39,7 @@ output:
 intro <- 
   paste0("![](_img/twitter_header_1500_500_px.png)",
          "<br><br>",
-         '<a href="https://opensea.io/collection/q1universeismine" 
+         '<a href="https://opensea.io/collection/language-is-dead" 
           title="Buy on OpenSea" target="_blank">
           <img style="width:220px; border-radius:5px; box-shadow: 0px 1px 6px 
           rgba(0, 0, 0, 0.25);" 
@@ -47,11 +47,11 @@ intro <-
          alt="Available on OpenSea" /></a>',
          "<br><br>",
          "[![](_img/github.png)]",
-         "(https://github.com/GoranMilovanovic/q1universeismine)  ",
+         "(https://github.com/GoranMilovanovic/languageisdead)  ",
          "[![](_img/twitter.png)]",
-         "(https://twitter.com/q1universe)  ",
+         "(https://twitter.com/GenVoidProject)  ",
          "[![](_img/instagram.png)]",
-         "(https://www.instagram.com/q1universeismine)  ",
+         "(https://www.instagram.com/genvoidproject)  ",
          "<hr>",
          "<h3>Networks of languages: the dying ones go missing</h3>", 
          "55 similarity networks of human languages were generated from ",
@@ -63,7 +63,7 @@ intro <-
          "55 pieces will be dropped in October 2021. ",
          "They will be dropped into [OpenSea](https://opensea.io/)",
          " via [Polygon](https://polygon.technology/). 
-         Follow [\\@languageisdead](https://twitter.com/q1universe) ",
+         Follow [\\@GenVoidProject](https://twitter.com/GenVoidProject) ",
          " on Twitter for drop announcements. ",
          "**50% of proceeds will be donated to Wikidata, to be used in projects 
          aimed to support the representation of endangered languages and small linguistic communities.**"
@@ -127,7 +127,7 @@ components <- paste(components,
 footer <- paste0(
   "<br>",
   "<hr>",
-  '<a href="https://opensea.io/collection/q1universeismine" 
+  '<a href="https://opensea.io/collection/language-is-dead" 
           title="Buy on OpenSea" target="_blank">
           <img style="width:220px; border-radius:5px; box-shadow: 0px 1px 6px 
           rgba(0, 0, 0, 0.25);" 
@@ -135,11 +135,11 @@ footer <- paste0(
          alt="Available on OpenSea" /></a>',
   "<br><br>",
   "[![](_img/github.png)]", 
-  "(https://github.com/GoranMilovanovic/q1universeismine)  ",
+  "(https://github.com/GoranMilovanovic/languageisdead)  ",
   "[![](_img/twitter.png)]",
-  "(https://twitter.com/q1universe)  ",
+  "(https://twitter.com/GenVoidProject)  ",
   "[![](_img/instagram.png)]",
-  "(https://www.instagram.com/q1universeismine)  ",
+  "(https://www.instagram.com/genvoidproject/)  ",
   "<br><br>",
   "**Language is Dead was rendered on 2021/10/15.**",
   "<br><br><br>"
